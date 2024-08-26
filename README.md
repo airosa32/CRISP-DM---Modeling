@@ -38,7 +38,7 @@ Para aprimorar o desempenho do modelo XGBoost, foi realizada uma otimização do
 Após a otimização, os resultados das métricas foram:
 - MSE XGB com GRID: 6.06
 - RMSE XGB com GRID: 2.46
-- 
+  
 ## 5. Conclusão
 Através da modelagem e otimização, o modelo XGBoost com hiperparâmetros ajustados apresentou o melhor desempenho na previsão de preços de imóveis em Boston. O erro médio de previsão foi reduzido para 2.46 dólares, indicando uma melhoria significativa em relação aos modelos iniciais. Essa otimização demonstra a importância de ajustar os parâmetros dos modelos para obter resultados mais precisos e confiáveis.
 
